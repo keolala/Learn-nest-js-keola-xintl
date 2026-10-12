@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Learn NestJS — Request Handling & Validation
 
 This project is a classroom starter for **NestJS fundamentals**. The goal is not to ship a full product. Students practice how an HTTP API receives data, validates it, and returns a predictable response.
@@ -745,3 +746,6 @@ npm run test
 npm run test:e2e
 npm run test:cov
 ```
+=======
+# Learn-nest-js-keola-xintl
+>>>>>>> origin/main
